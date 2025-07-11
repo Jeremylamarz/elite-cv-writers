@@ -10,7 +10,7 @@
 - Simple assignment submission form
 - CV/Resume upload with optional job description
 - Direct WhatsApp messaging button for inquiries
-- Auto-email submission to jeremylameck25@gmail.com via [FormSubmit](https://formsubmit.co)
+- Auto-email submission to elitecvwriters1@gmail.com via [FormSubmit](https://formsubmit.co)
 - No backend or database required
 
 ---
@@ -24,7 +24,7 @@
 ## 📞 Contact & Support
 
 - WhatsApp: [+254 745 945 024](https://wa.me/254745945024)
-- Email: jeremylameck25@gmail.com
+- Email: elitecvwriters1@gmail.com
 
 ---
 
