@@ -1,6 +1,6 @@
-# Elite CV Writers Kenya 🌍✍️
+# Elite CV Writers  🌍✍️
 
-**Elite CV Writers Kenya** is a professional service website that helps job seekers and career professionals get expertly written CVs, cover letters, and LinkedIn profiles tailored to their goals.
+**Elite CV Writers ** is a professional service website that helps job seekers and career professionals get expertly written CVs, cover letters, and LinkedIn profiles tailored to their goals.
 
 ---
 
